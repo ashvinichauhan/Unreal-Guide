@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('public/img/minecraft2.jpg');
+    background-size: cover; /* or 'contain' depending on your needs */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: keeps the background fixed while scrolling */
+}
+.content {
+    /* Styles for your page content */
+    /* This will appear on top of the background image */
+}
